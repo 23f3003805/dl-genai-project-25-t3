@@ -1,6 +1,6 @@
 Jan 2026 DLGenAI Project - Messy Mashup
 
-Introduction to DL and GenAI Project [BSDA2001P]
+## Introduction to DL and GenAI Project [BSDA2001P]
 
 Overview
 Competition Overview: Messy Mashup
